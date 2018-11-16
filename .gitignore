@@ -6,7 +6,7 @@ node-zlib/
 src/
 playground/
 build/
-js/
+package-lock.json
 demo/bundle.js
 *.html
 !demo/browser.html
